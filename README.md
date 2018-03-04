@@ -1,7 +1,7 @@
 # Deep-Learning---NYU
 This repository contains the projects done for Deep Learning class at NYU for Spring 2018.
 
-# DNN1.ipynb
+## DNN1.ipynb
 The file named DNN1.ipynb contains the code for implementing a Deep Neural Network from scratch without using any Deep Learning framework. All the processes in forward propagation and backward propagation are implemented from scratch using numpy operations only.
 The dataset used is the CIFAR-10 dataset, with 50000 training images and 10000 testing images.
 
