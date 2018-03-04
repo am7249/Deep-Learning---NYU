@@ -1,6 +1,7 @@
 # Deep-Learning---NYU
 This repository contains the projects done for Deep Learning class at NYU for Spring 2018.
 
+# DNN1.ipynb
 The file named DNN1.ipynb contains the code for implementing a Deep Neural Network from scratch without using any Deep Learning framework. All the processes in forward propagation and backward propagation are implemented from scratch using numpy operations only.
 The dataset used is the CIFAR-10 dataset, with 50000 training images and 10000 testing images.
 
@@ -12,3 +13,4 @@ I have also implemented Dropout Regularization and L2 regularization for the net
 The hyperparameters can be tuned by the user to modify the net and possibly achieve better result. I trained the model on AWS p2.xlarge EC2 instance, which provides GPU support as training on CPU takes a lot of time.
 
 I was able to obtain a validation accuracy of >56%, which also explains why simple deep nets are not the best choice for image recognition and why we use Convolutional Neural Networks.
+######################################################
